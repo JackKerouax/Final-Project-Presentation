@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "/Users/xiaomeng/Documents/GitHub/EP-353-FA2019"
+		},
+		{
+			"path": "/Users/xiaomeng/Documents/GitHub/ProblemSet9"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"chrono": "c"
+		}
+	}
+}
